@@ -1,8 +1,8 @@
-$: << './'
+#$: << './'
 
-require 'logger'
-require 'kernel'
-require 'teamcity'
+require './logger'
+require './kernel'
+require './teamcity'
 
 task :default do
   base_dir = Dir.pwd

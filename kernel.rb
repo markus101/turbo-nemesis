@@ -1,5 +1,3 @@
-require 'logger'
-
 module Kernel
   alias_method :kernel_warn, :warn
   alias_method :kernel_puts, :puts
