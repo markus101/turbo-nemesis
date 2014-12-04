@@ -5,5 +5,7 @@ require 'kernel'
 
 
 task :default do
-  FileUtils.mkdir_p('mark_test', :verbose => true)
+  base_dir = Dir.pwd
+
+  FileUtils.mkdir_p(File.join(base_dir, 'mark', 'test'), :verbose => true)
 end

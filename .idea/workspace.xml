@@ -36,7 +36,7 @@
       <file leaf-file-name="rakefile.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rakefile.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.16594361" vertical-offset="0" max-vertical-offset="922">
+            <state line="9" column="40" selection-start="127" selection-end="127" vertical-scroll-proportion="0.16594361" vertical-offset="0" max-vertical-offset="922">
               <folding />
             </state>
           </provider>
@@ -289,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rakefile.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.16594361" vertical-offset="0" max-vertical-offset="922">
+        <state line="9" column="40" selection-start="127" selection-end="127" vertical-scroll-proportion="0.16594361" vertical-offset="0" max-vertical-offset="922">
           <folding />
         </state>
       </provider>
