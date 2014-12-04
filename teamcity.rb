@@ -17,11 +17,11 @@ class TeamCity
   end
 
   def self.open_block(message)
-    write_to_teamcity("blockOpened '#{message}'")
+    write_to_teamcity("blockOpened name='#{message}'")
   end
 
   def self.close_block(message)
-    write_to_teamcity("blockClosed '#{message}'")
+    write_to_teamcity("blockClosed name='#{message}'")
   end
 
   def self.publish_artifact(path)
